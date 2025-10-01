@@ -3,10 +3,10 @@
 FlashOmni is a unified sparse attention engine, which supports diverse sparse methods and reduces corresponding redundent computation, to accelerate Diffusion Transformers.
 
 This repository is the official implementation of <br>
-[**FlashOmni: A Unified Sparse Attention Engine to Accelerate Diffusion Transformers**]() <br>
+[**FlashOmni: A Unified Sparse Attention Engine for Diffusion Transformers**](https://arxiv.org/abs/2509.25401) <br>
 (Liang Qiao, Yue Dai et al;).
 
-Code will be released soon!!!
+**Code will be released soon!!!**
 
 ## Getting Started
 
