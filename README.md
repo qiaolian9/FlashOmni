@@ -6,7 +6,7 @@ This repository is the official implementation of <br>
 [**FlashOmni: A Unified Sparse Attention Engine for Diffusion Transformers**](https://arxiv.org/abs/2509.25401) <br>
 (Liang Qiao, Yue Dai et al;).
 
-**Code will be released soon!!!**
+<!-- **Code will be released soon!!!** -->
 
 ## Getting Started
 
